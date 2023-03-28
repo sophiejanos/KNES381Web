@@ -2,11 +2,11 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Purpose
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Data"
   url: "/design/"
   side: left
   dropdown:
@@ -31,7 +31,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Videos"
   url: "/headers/"
   side: left
   dropdown:
